@@ -24,7 +24,7 @@ gRPC 是 Google 开源的一款高性能 RPC 框架，前两天发布了 1.0 版
 
 RPC 框架通常使用 IDL (Interface Description Language) 定义客户端和服务端进行通信的数据结构，服务端提供的服务等，然后编译生成相应的代码供客户端和服务端使用。RPC 框架一般都具备跨语言的特性，这样客户端和服务端可以分别基于不同的语言进行实现。
 
-![Alt text](/img/2017-05-27-gRPC从入门到使用/1.png)
+![Alt text](/img/2017-05-27-gRPC/1.png)
 
 
 ## 2.开发者：do it 
