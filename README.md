@@ -1,4 +1,3 @@
-# XuXinkun Blog
 
 
 ## Thanks
